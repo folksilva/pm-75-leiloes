@@ -8,7 +8,6 @@ public class IndexController {
 
 	@Path("/")
 	public void index() {
-		throw new Exception();
 	}
 
 }
