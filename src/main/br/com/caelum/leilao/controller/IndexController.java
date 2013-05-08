@@ -8,7 +8,7 @@ public class IndexController {
 
 	@Path("/")
 	public void index() {
-		throws new Exception();
+		throw new Exception();
 	}
 
 }
